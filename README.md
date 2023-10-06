@@ -18,7 +18,7 @@ Hi, I'm Rikie. A keen, motivated, software engineer with an ambition to swap the
 * 🌱 Pushing myself to learn new things and develop
 * 📧 I am reachable at: rikiepatrick@gmail.com
 * 💻 My developer profile can be found [here](https://rpatrick.dev)
-* 📝 My Github CV can be found [here](https://github.com/1sAndZeros/CV)
+* 📝 My CVs can be found here: [Github](https://github.com/1sAndZeros/CV) | [Standard](https://www.rpatrick.dev/Rikie%20Patrick%20CV.pdf)
 
 ---
 
@@ -33,6 +33,7 @@ Hi, I'm Rikie. A keen, motivated, software engineer with an ambition to swap the
 
 # My Hobbies:
  
+ * 💻 Coding - A hobby as well as a career
  * 🌍 Travelling - Love experiencing new cultures in all corners of the globe
  * 🏎️ Formula 1 - Massive fan of Lewis Hamilton.
  * 🔭 Film and TV - Prison Break was my first love.
@@ -53,6 +54,7 @@ Hi, I'm Rikie. A keen, motivated, software engineer with an ambition to swap the
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/1sAndZeros) 
 
 ---
+
 
 # 💻 Tech Stack:
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
