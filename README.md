@@ -18,7 +18,7 @@ Hi, I'm Rikie. A keen, motivated, software engineer with an ambition to swap the
 * 🌱 Pushing myself to learn new things and develop
 * 📧 I am reachable at: rikiepatrick@gmail.com
 * 💻 My developer profile can be found [here](https://rpatrick.dev)
-* 📝 My CVs can be found here: [Github](https://github.com/1sAndZeros/CV) | [Standard](https://www.rpatrick.dev/Rikie%20Patrick%20CV.pdf)
+* 📝 My CVs can be found here: [Github](https://github.com/1sAndZeros/CV) | [Standard](https://www.rpatrick.dev/CV.pdf)
 
 ---
 
