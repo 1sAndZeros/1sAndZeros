@@ -12,7 +12,6 @@ width="200"/>
 Hi, I'm Rikie. A keen, motivated, software engineer with an ambition to swap the<br>manufacturing environment for a new career in the tech industry.
 
 * 🧑🏻‍💻 Future Web Developer / Software Engineer
-* 📊 The spreadsheet guy
 * 🧑🏻‍🏭 Currently working in Aerospace Engineering as a CNC Programmer
 * 🔍 Looking for opportunities in the tech industry
 * 🌱 Pushing myself to learn new things and develop
