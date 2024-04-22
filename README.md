@@ -9,11 +9,10 @@ width="200"/>
 ---
 
 # 👨‍💻 About Me:
-Hi, I'm Rikie. A keen, motivated, software engineer with an ambition to swap the<br>manufacturing environment for a new career in the tech industry.
+Hi, I'm Rikie. A keen, motivated, software engineer who swapped<br>the manufacturing environment for a career in the tech industry. Currently learning with Makers to join Deloitte as Software Engineer.
 
-* 🧑🏻‍💻 Future Web Developer / Software Engineer
-* 🧑🏻‍🏭 Currently working in Aerospace Engineering as a CNC Programmer
-* 🔍 Looking for opportunities in the tech industry
+* 🧑🏻‍💻 Software Engineer with Deloitte
+* 🧑🏻‍🏭 Previously worked in Aerospace Engineering as a CNC Programmer
 * 🌱 Pushing myself to learn new things and develop
 * 📧 I am reachable at: rikiepatrick@gmail.com
 * 💻 My developer profile can be found [here](https://rpatrick.dev)
