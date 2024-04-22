@@ -9,7 +9,7 @@ width="200"/>
 ---
 
 # 👨‍💻 About Me:
-Hi, I'm Rikie. A keen, motivated, software engineer who swapped<br>the manufacturing environment for a career in the tech industry. Currently learning with Makers to join Deloitte as Software Engineer.
+Hi, I'm Rikie. A keen, motivated, software engineer who swapped<br>the manufacturing environment for a career in the tech industry.<br>Currently learning with Makers to join Deloitte as Software Engineer.
 
 * 🧑🏻‍💻 Software Engineer with Deloitte
 * 🧑🏻‍🏭 Previously worked in Aerospace Engineering as a CNC Programmer
